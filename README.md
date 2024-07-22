@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=Fakeshustar&fontColor=FFFFFF&fontSize=40&animation=twinkling&theme=apprentice"/>
 
-## 運命の先にあなたを見つけた 👋
+## 運命の先にあなたを見つけた ⚡
 
 <!--
 **Shumurai02/Shumurai02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

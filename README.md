@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=Fakeshustar&fontColor=FFFFFF&fontSize=40&animation=blinking&theme=apprentice"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=Fakeshustar&fontColor=FFFFFF&fontSize=40&animation=twinkling&theme=apprentice"/>
 
 ## Hi there 👋
 
